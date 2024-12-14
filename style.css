@@ -1,0 +1,20 @@
+body{
+    background-image: url(https://png.pngtree.com/background/20210709/original/pngtree-sky-weather-clouds-cloudy-background-picture-image_571998.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1{
+    color: orange;
+    font-size: 50px;
+}
+#inputfeild{
+    width: 30%;
+    height: 40px;
+}
+#inputfeild:hover{
+    background-color: orange;
+}
+#showWeather{
+    text-align: center;
+    color: rgb(0, 132, 214);
+}
